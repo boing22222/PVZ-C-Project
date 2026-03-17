@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\plant">
+      <UniqueIdentifier>{cb7d15f5-7008-4d32-918a-f49db305c6bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\plant">
+      <UniqueIdentifier>{2fd08cf9-2403-48cd-862e-b1ae1396415e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\zombie">
+      <UniqueIdentifier>{33757af9-d113-4580-bd01-ac9c57f50a1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\scene">
+      <UniqueIdentifier>{1f223c5a-65ce-4701-8a35-9088cea0f9eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\tool">
+      <UniqueIdentifier>{83e07ebe-7560-49a3-a541-21ffe1da125e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\杂项">
+      <UniqueIdentifier>{01914977-035b-46a1-9dbb-7331aa048787}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\动画和资源">
+      <UniqueIdentifier>{1a2bf3d5-3c37-4c62-bdc8-edb4f3dc00b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\zombie">
+      <UniqueIdentifier>{0b4e4447-9bb1-4294-816e-73a5be44c4b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\tool">
+      <UniqueIdentifier>{3280edac-36f2-4beb-b882-16edab00b9c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\动画和资源">
+      <UniqueIdentifier>{4805ff88-8395-48b1-bd3e-0f417bce42c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\杂项">
+      <UniqueIdentifier>{1e2a0942-8a71-4dd5-b86b-06ed71b34d99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\scene">
+      <UniqueIdentifier>{c0a24bd7-591e-4f56-9a4b-aba8129cb2bc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CherryBomb.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="Chomper.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="IceShroom.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="PeaShooter.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="PotatoMine.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="Plant.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="PuffShroom.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="Repeater.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="ScaredyShroom.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="SnowPea.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="Squash.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="SunFlower.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="SunShroom.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="WallNut.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="ThreePeater.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="Jalapeno.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="AllPlant.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AllZombie.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BucketZombie.h">
+      <Filter>头文件\zombie</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalZombie.h">
+      <Filter>头文件\zombie</Filter>
+    </ClInclude>
+    <ClInclude Include="RoadBlockZombie.h">
+      <Filter>头文件\zombie</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombie.h">
+      <Filter>头文件\zombie</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>头文件\动画和资源</Filter>
+    </ClInclude>
+    <ClInclude Include="Atlas.h">
+      <Filter>头文件\动画和资源</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件\动画和资源</Filter>
+    </ClInclude>
+    <ClInclude Include="tools.h">
+      <Filter>头文件\tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>头文件\tool</Filter>
+    </ClInclude>
+    <ClInclude Include="Bullet.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="Car.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticObj.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="SunShine.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="Trophy.h">
+      <Filter>头文件\杂项</Filter>
+    </ClInclude>
+    <ClInclude Include="FailScene.h">
+      <Filter>头文件\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="EndScene.h">
+      <Filter>头文件\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScene.h">
+      <Filter>头文件\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuScene.h">
+      <Filter>头文件\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>头文件\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>头文件\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SelectScene.h">
+      <Filter>头文件\scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Spikeweed.h">
+      <Filter>头文件\plant</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>头文件\tool</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CherryBomb.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="Chomper.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="IceShroom.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="Jalapeno.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="PeaShooter.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="PotatoMine.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="PuffShroom.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="Repeater.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="ScaredyShroom.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="SnowPea.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="Spikeweed.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="Squash.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="SunFlower.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="SunShroom.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreePeater.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="WallNut.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="BucketZombie.cpp">
+      <Filter>源文件\zombie</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalZombie.cpp">
+      <Filter>源文件\zombie</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombie.cpp">
+      <Filter>源文件\zombie</Filter>
+    </ClCompile>
+    <ClCompile Include="RoadBlockZombie.cpp">
+      <Filter>源文件\zombie</Filter>
+    </ClCompile>
+    <ClCompile Include="Plant.cpp">
+      <Filter>源文件\plant</Filter>
+    </ClCompile>
+    <ClCompile Include="EndScene.cpp">
+      <Filter>源文件\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="FailScene.cpp">
+      <Filter>源文件\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScene.cpp">
+      <Filter>源文件\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuScene.cpp">
+      <Filter>源文件\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>源文件\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectScene.cpp">
+      <Filter>源文件\scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.cpp">
+      <Filter>源文件\动画和资源</Filter>
+    </ClCompile>
+    <ClCompile Include="Atlas.cpp">
+      <Filter>源文件\动画和资源</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource.cpp">
+      <Filter>源文件\动画和资源</Filter>
+    </ClCompile>
+    <ClCompile Include="tools.cpp">
+      <Filter>源文件\tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>源文件\tool</Filter>
+    </ClCompile>
+    <ClCompile Include="Bullet.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="Car.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticObj.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="SunShine.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+    <ClCompile Include="Trophy.cpp">
+      <Filter>源文件\杂项</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

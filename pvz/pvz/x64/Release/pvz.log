@@ -1,0 +1,9 @@
+﻿  GameScene.cpp
+C:\Users\ASUS\Documents\WeChat Files\wxid_qg93ym0629r822\FileStorage\File\2024-12\测试\pvz\pvz\GameScene.cpp(16,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SceneManager.cpp
+  正在生成代码
+  29 of 1627 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  pvz.vcxproj -> C:\Users\ASUS\Documents\WeChat Files\wxid_qg93ym0629r822\FileStorage\File\2024-12\测试\pvz\x64\Release\pvz.exe
